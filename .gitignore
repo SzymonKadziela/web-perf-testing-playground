@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+*.lock
+.env
+
+# Playwright
+playwright-report/
+test-results/
+*.zip
+
+# VS Code
+.vscode/
+
+# Python / Locust
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
